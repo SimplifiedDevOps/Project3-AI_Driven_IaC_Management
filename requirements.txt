@@ -1,0 +1,6 @@
+pinecone-client
+sentence-transformers
+faiss-cpu  # or faiss-gpu if using GPU support
+numpy
+langchain
+openai
