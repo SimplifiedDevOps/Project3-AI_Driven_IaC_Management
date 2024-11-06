@@ -152,4 +152,4 @@ python scripts/integration_test.py
 - **OpenAI Rate Limits**: Monitor OpenAI API usage and ensure rate limits are not exceeded. Consider using batching where possible.
 
 ## Conclusion
-The AI-Driven IaC Management System provides an end-to-end solution for infrastructure management, utilizing AI and automation to streamline the IaC lifecycle. By integrating feedback-based learning, the system continuously improves its accuracy and efficiency, delivering reliable and optimized infrastructure configuration
+The AI-Driven IaC Management System provides an end-to-end solution for infrastructure management, utilizing AI and automation to streamline the IaC lifecycle. By integrating feedback-based learning, the system continuously improves its accuracy and efficiency, delivering reliable and optimized infrastructure configurations.
